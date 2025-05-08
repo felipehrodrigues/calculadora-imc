@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/calculadora-imc/static/css/main.950101d3.css",
+    "main.js": "/calculadora-imc/static/js/main.d0e66d30.js",
+    "static/js/453.9bafcc0c.chunk.js": "/calculadora-imc/static/js/453.9bafcc0c.chunk.js",
+    "static/media/imc 5-cutout.png": "/calculadora-imc/static/media/imc 5-cutout.24268b4aeceb6444db20.png",
+    "static/media/imc 3-cutout.png": "/calculadora-imc/static/media/imc 3-cutout.4084d25a7caf0eac8138.png",
+    "static/media/imc 6-cutout.png": "/calculadora-imc/static/media/imc 6-cutout.76da06359ae5ac0d825f.png",
+    "static/media/imc 4-cutout.png": "/calculadora-imc/static/media/imc 4-cutout.bb23f8343a2cccdecde4.png",
+    "static/media/imc 1-cutout.png": "/calculadora-imc/static/media/imc 1-cutout.702ed5f29fa1265c13bd.png",
+    "static/media/imc 2-cutout.png": "/calculadora-imc/static/media/imc 2-cutout.8ec6ab730061f41808da.png",
+    "index.html": "/calculadora-imc/index.html",
+    "main.950101d3.css.map": "/calculadora-imc/static/css/main.950101d3.css.map",
+    "main.d0e66d30.js.map": "/calculadora-imc/static/js/main.d0e66d30.js.map",
+    "453.9bafcc0c.chunk.js.map": "/calculadora-imc/static/js/453.9bafcc0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.950101d3.css",
+    "static/js/main.d0e66d30.js"
+  ]
+}
