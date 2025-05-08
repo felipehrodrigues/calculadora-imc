@@ -25,6 +25,14 @@ Projeto criado para praticar os conceitos da disciplina **Programação Web** do
 - Exibição de variações e imagens associadas ao resultado
 - Layout responsivo: adaptável a diferentes tamanhos de tela (mobile, tablet e desktop)
 
+## Demonstração
+
+Abaixo está uma captura de tela do aplicativo:
+
+![Tela inicial da Calculadora de IMC](./src/images/sc-pc.png)
+![Tela inicial da Calculadora de IMC - MOBILE](./src/images/sc-mobile.png)
+
+
 ## 🖥️ Como rodar localmente
 
 ```bash
