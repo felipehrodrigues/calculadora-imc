@@ -15,7 +15,6 @@
     "tailwindcss": "3.0",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://felipehrodrigues.github.io/calculadora-imc",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
